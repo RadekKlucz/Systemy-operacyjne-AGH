@@ -20,4 +20,5 @@ o polecenie skopiuje 100 megabajtów danych z urządzenia /dev/urandom do pliku 
 (Zadanie 1)[zad1.md]
 (Zadanie 2)[zad2.md]
 (Zadanie 3)[zad3.md]
-(Zadanie 4)[zad4.md]
+(Zadanie 5 (skrypt))[zad5.cc]
+(Zadanie 6 (skrypt))[zad6.sh]
